@@ -97,23 +97,25 @@ X_n1_1=Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
+![d](https://github.com/Navyavenkat/basic-nn-model/assets/94165327/7d964891-a4a4-4511-a023-c85dc10d1435)
 
-Include screenshot of the dataset
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
+![DL](https://github.com/Navyavenkat/basic-nn-model/assets/94165327/f7cb7f5f-87ba-4332-ad0f-7fa2a65f9a11)
 
-Include your plot here
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![DL1](https://github.com/Navyavenkat/basic-nn-model/assets/94165327/fa7c560e-d210-477f-90fc-85873305018c)
+
 
 ### New Sample Data Prediction
+![I](https://github.com/Navyavenkat/basic-nn-model/assets/94165327/5721ead5-b41b-4018-8248-4e4b07f1db29)
 
-Include your sample input and output here
 
 ## RESULT
 
-Include your result here
+Hence the  development of  a neural network regression model for the given dataset is successfully developed
+
